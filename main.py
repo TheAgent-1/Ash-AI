@@ -7,7 +7,7 @@ import datetime # For time windows
 import platform # For system info windows
 
 # Replace 'YOUR_API_KEY' with the actual API key you got from Google AI Studio
-genai.configure(api_key='AIzaSyAE6wj2G925ZjBU0Fk0PSscW9kor5H-ZDU')
+genai.configure(api_key='your_api_key')
 
 # --- "House" Configuration (Ash's Interior Design!) ---
 voice = False # Keep voice as is, maybe a furniture setting later?
