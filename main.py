@@ -15,5 +15,5 @@ def create_response(user_input):
             {}
             ],
         input=user_input
-        
-)
+    )
+    return response
